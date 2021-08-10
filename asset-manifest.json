@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/buzzle/static/css/main.e28e7fe7.chunk.css",
+    "main.js": "/buzzle/static/js/main.3e105734.chunk.js",
+    "main.js.map": "/buzzle/static/js/main.3e105734.chunk.js.map",
+    "runtime-main.js": "/buzzle/static/js/runtime-main.27b80af8.js",
+    "runtime-main.js.map": "/buzzle/static/js/runtime-main.27b80af8.js.map",
+    "static/js/2.d150dbc4.chunk.js": "/buzzle/static/js/2.d150dbc4.chunk.js",
+    "static/js/2.d150dbc4.chunk.js.map": "/buzzle/static/js/2.d150dbc4.chunk.js.map",
+    "index.html": "/buzzle/index.html",
+    "static/css/main.e28e7fe7.chunk.css.map": "/buzzle/static/css/main.e28e7fe7.chunk.css.map",
+    "static/js/2.d150dbc4.chunk.js.LICENSE.txt": "/buzzle/static/js/2.d150dbc4.chunk.js.LICENSE.txt",
+    "static/media/1.5296e2c1.png": "/buzzle/static/media/1.5296e2c1.png",
+    "static/media/2.7e790b43.png": "/buzzle/static/media/2.7e790b43.png",
+    "static/media/3.da4da1a4.png": "/buzzle/static/media/3.da4da1a4.png",
+    "static/media/App.css": "/buzzle/static/media/XM-Vahid.7f80b58a.ttf",
+    "static/media/logo with R.32124d22.png": "/buzzle/static/media/logo with R.32124d22.png",
+    "static/media/right1.9563aece.png": "/buzzle/static/media/right1.9563aece.png",
+    "static/media/right2.634e66d5.png": "/buzzle/static/media/right2.634e66d5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27b80af8.js",
+    "static/js/2.d150dbc4.chunk.js",
+    "static/css/main.e28e7fe7.chunk.css",
+    "static/js/main.3e105734.chunk.js"
+  ]
+}
